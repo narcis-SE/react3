@@ -1,0 +1,25 @@
+.button1{
+    border: 2px solid black;
+    width: 100px;
+    text-align: center;
+}
+
+.button2{
+    border: 2px solid blue;
+    width: 100px;
+    text-align: center;
+}
+
+.button3{
+    border: 2px solid red;
+    width: 100px;
+    text-align: center;
+}
+
+.UpDownCounter{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+  
+}
+
